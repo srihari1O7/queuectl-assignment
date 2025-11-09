@@ -6,7 +6,7 @@ and maintains a Dead Letter Queue (DLQ) for permanently failed jobs.
 
 All operations are accessible through a CLI, and job data is persisted in an SQLite database (`queue.db`).
 
-**Demo Video:** [LINK_TO_YOUR_DRIVE_VIDEO]
+**Demo Video:** https://drive.google.com/file/d/12HWfYGThOnfwJd0gQdGFdHKKJ7vsclg0/view?usp=drive_link
 
 ---
 
